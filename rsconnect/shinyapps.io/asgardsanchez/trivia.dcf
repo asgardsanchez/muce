@@ -1,0 +1,12 @@
+name: trivia
+title: trivia
+username: asgardsanchez
+account: asgardsanchez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11775833
+bundleId: 8726385
+url: https://asgardsanchez.shinyapps.io/trivia/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

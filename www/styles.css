@@ -1,0 +1,139 @@
+<style>
+    * /* Example styles */
+  .container-block {
+    padding: 20px;
+  }
+  
+  .html-container {
+    overflow-y: auto;
+    max-height: calc(100vh - 150px); /* Adjust based on your layout */
+    padding: 10px;
+  }
+  
+  body {
+    background-color: #000; /* Set your desired background color */
+    color: #fff; /* Set your desired text color */
+  }
+  
+  f7-navbar {
+    background-color: #333; /* Navbar color */
+  }
+  
+  f7-tab {
+    background-color: #000; /* Tab background color */
+    color: #fff; /* Tab text color */
+  }
+   
+    
+  
+  {
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: serif;
+    scroll-snap-type: mandatory;
+    scroll-snap-points-y: repeat(100vh);
+    scroll-snap-type: y mandatory;
+    background-color: #c3b091;
+    
+  }
+  section {
+    background-color: #efdecd; /* Color de fondo para la sección */
+    color: #3d0c02; /* Color de texto para la sección */
+    border-bottom: 1px;
+    padding: 4rem;
+    margin:5px ;
+    padding-top: 4rem;
+    height: 100vh;
+    scroll-snap-align: start;
+    text-align: left;
+    position: relative;
+  }
+  .seccion-café {
+    background-color: #3d0c02; /* Color de fondo para la sección */
+    color: beige; /* Color de texto para la sección */
+  }
+
+  .seccion-khaki {
+    background-color: #c3b091; /* Color de fondo para la sección */
+    color: white; /* Color de texto para la sección */
+  }
+
+  .seccion-dark {
+    background-color: #000000ff; /* Color de fondo para la sección */
+    color: white; /* Color de texto para la sección */
+  }
+
+  texto {
+    font-family: sans-serif;
+    position: relative;
+    left: 1rem;
+    text-align: left;
+    color: auto;
+    font-size: calc(0.8rem + 3vw);
+    margin: 10;
+  }
+  .serif {
+    font-family: serif;
+    font-size: calc(0.8rem + 3vw);
+  }
+  .derecha{
+    text-align: right;
+    
+  .italic {
+  font-style: italic;
+}
+    
+  }
+
+  h1 {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: Right;
+    color: auto;
+    width: 100%;
+    left: 0;
+    font-size: calc(1rem + 6vw);
+  }
+
+  .medio {
+    position: relative;
+    margin-top: 0.8rem;
+    padding-top: 0.8rem;
+  }
+
+  h2 {
+    position: relative;
+    top: 10%;
+    left: 1rem;
+    text-align: center;
+    margin: 1rem;
+    color: auto;
+    font-size: calc(1rem + 6vw);
+    margin: 10;
+  }
+
+  h3 {
+    position: relative;
+    top: 10%;
+    left: 1rem;
+    text-align: left;
+    margin: 1rem;
+    color: auto;
+    font-size: calc(1rem + 6vw);
+    margin: 10;
+  }
+
+  img {
+    display: block;
+    margin: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  audio::-webkit-media-controls-panel {
+    background-color: #c3b091;  }
+  
+</style>
