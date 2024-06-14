@@ -282,3 +282,9 @@ server <- function(input, output, session) {
 
 # Create Shiny app
 shinyApp(ui = ui, server = server)
+
+
+# Guía Interactiva Multimedia ©️ 2024 by 
+# Josué Aarón Rodríguez Castro, 
+# Asgard Andrés Sánchez Riveron Gonzalez 
+# licensed under CC BY-NC 4.0
